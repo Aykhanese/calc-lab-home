@@ -1,7 +1,7 @@
 // Aykhan Asadov 251ADC004
 // https://github.com/Aykhanese/calc-lab-home
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
-// Resources used: ChatGPT for parser/CLI debugging and explanation; assignment specification. AI conversation: https://chatgpt.com/c/6ade2093-a0d0-83eb-a3de-dd8b123b3242
+// Resources used: ChatGPT for parser/CLI debugging and explanation; assignment specification. AI conversation: https://chatgpt.com/share/6ade30e0-39a4-83ed-a98c-9befce0575e7
 
 #include <stdio.h>
 #include <stdlib.h>
